@@ -1,80 +1,35 @@
-# Mockk
-Mock J is an AI-powered mock interview and job-prep platform built to help users practice real interviews, improve answers, and feel confident before applying or interviewing.
 # MockJ AI
 
-MockJ AI is a next-generation AI copilot platform that combines conversational AI, voice interaction, image generation, image editing, automation, and creative tools into a single workspace.
+MockJ AI is a creator-focused AI copilot built for chat, voice, image workflows, coding help, website building, content creation, automation, and project support.
 
-Designed for creators, entrepreneurs, developers, and businesses, MockJ helps users generate content, build projects, create visuals, automate workflows, and interact with AI naturally through text or voice commands.
+MockJ is part of the MoreiraJ / MLTX ecosystem. It is designed for creators, entrepreneurs, developers, artists, and businesses that want one workspace for practical AI help instead of a generic chatbot.
 
-## Features
+## What MockJ Does
 
-### AI Copilot
+- AI chat and strategy support
+- Voice interaction and text-to-speech workflows
+- Image generation and image editing workflows
+- Website and app-building assistance
+- Coding, debugging, and project scaffolding help
+- Creator business, branding, content, and automation support
+- Token-based usage and premium subscription flows
 
-* Intelligent conversational assistant
-* Long-form content creation
-* Research and analysis
-* Business and productivity support
-* Project memory and context awareness
+## Live Site
 
-### Voice AI
+- https://mockj.online
 
-* Natural voice conversations
-* Voice commands and hands-free control
-* Text-to-speech integration
-* Real-time AI responses
+## Product Direction
 
-### AI Image Studio
+MockJ is built to become a full AI operating system for creators: ask questions, build projects, generate assets, automate work, and manage creative output from one place.
 
-* Text-to-image generation
-* Image-to-image transformation
-* Reference image support
-* Style transfer
-* Face preservation
-* Character consistency
-* Pose control
-* Professional creator tools
+## Tech Stack
 
-### Developer Tools
+- React
+- TypeScript
+- Node.js
+- Supabase / OnSpace functions
+- Stripe
+- Voice AI integrations
+- Modern responsive UI
 
-* Code generation
-* Website creation assistance
-* API development support
-* Automation workflows
-* Project scaffolding
-
-### Creator Workspace
-
-* Private project storage
-* Saved generations
-* Asset management
-* Commercial content creation
-* Team collaboration support
-
-### Token Economy
-
-* User token wallets
-* Usage tracking
-* Credit-based generation system
-* Premium subscription support
-* Creator monetization tools
-
-## Vision
-
-MockJ AI is built to be more than a chatbot. Our goal is to create a complete AI operating system where users can communicate naturally, create professional content, automate tasks, generate images, build products, and manage projects from a single platform.
-
-## Technology
-
-* React
-* TypeScript
-* Node.js
-* AI Model Integrations
-* Voice AI Services
-* Cloud Infrastructure
-* Secure Authentication
-* Modern Responsive UI
-
-## Mission
-
-To make advanced artificial intelligence accessible through a powerful, intuitive, and voice-first experience that helps people create, build, and automate without technical barriers.
-
-**MockJ AI — Your Voice-Powered Creative Copilot.**
+**MockJ AI — your creator copilot for building, automating, and leveling up.**
